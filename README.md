@@ -1,7 +1,6 @@
-Electrum-DOGE-server for the Electrum-DOGE client
+Electrum-Peseta-server for the Electrum-Peseta client
 ===============================================
 
-  * Author: Thomas Voegtlin (ThomasV on the bitcointalk forum)
   * Language: Python
 
 Features
@@ -34,6 +33,6 @@ Installation
 License
 -------
 
-Electrum-DOGE-server is made available under the terms of the [GNU Affero General
+Electrum-peseta-server is made available under the terms of the [GNU Affero General
 Public License](http://www.gnu.org/licenses/agpl.html), version 3. See the 
 included `LICENSE` for more details.
